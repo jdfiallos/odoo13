@@ -20,7 +20,8 @@
     'depends': ['base'],
 
     'data' : [
-        'views.xml',
+        'security/ir.model.access.csv',
+        'views/openacademy.xml',
     ],
     
     'demo' : [
