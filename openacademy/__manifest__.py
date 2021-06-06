@@ -25,6 +25,6 @@
     ],
     
     'demo' : [
-        '/demo/demo.xml'
+        'demo/demo.xml'
     ],
 }
