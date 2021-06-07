@@ -23,7 +23,8 @@
         'security/ir.model.access.csv',
         'views/openacademy.xml',
         'views/course.xml',
-        'views/session.xml'
+        'views/session.xml',
+        'views/partner.xml'
     ],
     
     'demo' : [
